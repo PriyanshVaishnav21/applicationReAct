@@ -1,4 +1,4 @@
-name: React.js CI
+name: React.js application CI
 
 on:
   pull_request:

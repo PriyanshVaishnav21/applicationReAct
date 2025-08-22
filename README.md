@@ -6,7 +6,7 @@ This project demonstrates a DevSecOps workflow for securely deploying a cloud-na
 
 ## 🏗️ Architecture
 
-
+![Architecture Diagram](diagram-export-22-8-2025-9_55_28-pm.png)
 
 The architecture consists of the following components:
 

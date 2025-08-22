@@ -252,7 +252,6 @@ jobs:
         SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
       continue-on-error: true 
 
-
   k8s-manifest-scan:
     needs: [backend-security, frontend-security]
     runs-on: ubuntu-latest
